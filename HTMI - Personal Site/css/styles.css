@@ -1,0 +1,35 @@
+body {
+  background-color: #fbf8f1;
+}
+
+/* h1 {color: #66BFBF;} */
+
+/* h3 {
+  color: #92a9bd;
+} */
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+#dates {
+  color: brown;
+}
+
+.works {
+  color: chocolate;
+}
+
+.headings {
+  color: crimson;
+}
+
+#foot {
+  background-color: #66bfbf;
+  width: 1000px;
+  height: 200px;
+}

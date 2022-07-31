@@ -1,0 +1,32 @@
+body {
+  background-color: cornsilk;
+}
+
+h1 {
+  color: darksalmon;
+}
+
+.pc_img {
+  width: 400px;
+  margin-left: 500px;
+}
+
+div {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+table {
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid black;
+}
+
+.form {
+  background-color: coral;
+  width: 400px;
+  margin-left: 500px;
+}
